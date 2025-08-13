@@ -18,7 +18,7 @@ It contains use case diagram, domain model, class diagram, state diagram and act
 ---
 
 ### 3. Class Diagram
-[[🖼 PNG](diagrams/png/class_diagram.png)  
+[🖼 PNG](diagrams/png/class_diagram.png)  
 [📄 PDF](diagrams/pdf/class_diagram.pdf) 
 
 ---
