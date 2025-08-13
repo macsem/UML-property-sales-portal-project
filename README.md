@@ -3,7 +3,7 @@ System analysis of a tool for managing advertisements on property sales portal, 
 
 It contains use case diagram, domain model, class diagram, state diagram and activity diagram.
 
-Diagrams were prepeared in Visual Paradigm, Microsoft Word and Microsoft PowerPoint.
+Diagrams were prepared in Visual Paradigm, Microsoft Word and Microsoft PowerPoint.
 
 ## 📌 Diagrams
 
