@@ -36,6 +36,3 @@ Diagrams were prepared in Visual Paradigm, Microsoft Word and Microsoft PowerPoi
 [📄 PDF](diagrams/pdf/activity_diagram.pdf) 
 
 
-### 5. Activity Diagram
-[🖼 PNG](diagrams/png/activity_diagram.png)  
-[📄 PDF](diagrams/pdf/activity_diagram.pdf) 
